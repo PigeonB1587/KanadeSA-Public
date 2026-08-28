@@ -43,5 +43,3 @@ Assets/Modern UI Pack （v5.5.25）
 
 ## 📄许可证
 详情参考 LICENSE 文件，注意本项目的MIT许可证非原版，具体添加新许可证：“Commons Clause” License Condition v1.0
-
----
