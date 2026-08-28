@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 0c9d180a29e99d84e814609f19822904
+timeCreated: 1785103737
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rubik
+  - Noto Sans SC
+  - Noto Sans TC
+  - Noto Sans KR
+  - Super Animal Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a9a812783fbb0f4c911b4b47efef376, type: 3}
+  - {fileID: 12800000, guid: 50eada3be5fd4784287cbd11862f7b38, type: 3}
+  - {fileID: 12800000, guid: 3b93031714a3f834d9cf7004c636b815, type: 3}
+  - {fileID: 12800000, guid: af626332a7ed48d4aaa3f493022300de, type: 3}
+  - {fileID: 12800000, guid: 95a826777464c7940a77be7e5c7d69c2, type: 3}
+  - {fileID: 12800000, guid: 8c160259ae67a644494a8ae172603595, type: 3}
+  - {fileID: 12800000, guid: 6f6a69ed67c74ec49aec7b8f670e8f22, type: 3}
+  - {fileID: 12800000, guid: 4dc5c89dd8fbb6e488a034360c031e90, type: 3}
+  - {fileID: 12800000, guid: d7a2a19657d1a2b4985cfe07dc609540, type: 3}
+  - {fileID: 12800000, guid: bbaffcf954a620e49a8ca3f9ec796218, type: 3}
+  - {fileID: 12800000, guid: 514b00dc676f9c94e8b8c2149facd050, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

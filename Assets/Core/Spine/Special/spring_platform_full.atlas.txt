@@ -1,0 +1,12 @@
+spring_platform_full.png
+size:1024,256
+filter:Linear,Linear
+platform_boot
+bounds:356,123,310,113
+offsets:1,1,312,115
+platform_top
+bounds:670,127,310,109
+offsets:1,1,312,111
+spring coil
+bounds:4,4,232,348
+rotate:90

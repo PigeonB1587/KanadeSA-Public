@@ -1,0 +1,115 @@
+{
+  "animations": [
+    {
+      "id": "Idle",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "idle/idle"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "Run",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "run/run"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "CreepIdle",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "creeping/idle_creeping"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "CreepWalk",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "creeping/creeping"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "Roll",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "rollover/rollover"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "RollBack",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 0,
+      "tracks": [
+        {
+          "animationPath": "rollover/rollover_backwards"
+        },
+        {
+          "animationPath": "aim/*"
+        }
+      ]
+    },
+    {
+      "id": "Umbrella",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 2,
+      "tracks": [
+        {
+          "animationPath": "parachute/parachute"
+        }
+      ]
+    },
+    {
+      "id": "Dive",
+      "controlTrack": 0,
+      "spineCharacterAnimationMode": 2,
+      "tracks": [
+        {
+          "animationPath": "parachute/fall"
+        }
+      ]
+    },
+    {
+      "id": "Emote",
+      "controlTrack": 1,
+      "spineCharacterAnimationMode": 1,
+      "tracks": [
+        {
+          "animationPath": "idle/idle_emotes"
+        },
+        {
+          "animationPath": "emotes/*"
+        }
+      ]
+    }
+  ]
+}
